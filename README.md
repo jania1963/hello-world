@@ -1,2 +1,4 @@
 # hello-world
-das ist ein tut
+<?php
+echo 'das ist ein tut';
+?>
